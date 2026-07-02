@@ -1,0 +1,5 @@
+FirstName,LastName,Department,OU,Group
+Margaret,Hamilton,IT,"OU=IT,DC=lab,DC=local",IT-Admins
+Barbara,Liskov,IT,"OU=IT,DC=lab,DC=local",IT-Admins
+Dorothy,Vaughan,Sales,"OU=Sales,DC=lab,DC=local",Sales-Team
+Radia,Perlman,HR,"OU=HR,DC=lab,DC=local",
