@@ -66,11 +66,12 @@ can copy and adapt.
 
 ## Screenshots
 
-_Add screenshots of each script running against your homelab here._
+_To be added: each script running against a live lab AD/domain. Planned:_
 
-| | |
-| --- | --- |
-| ![Bulk user creation](screenshots/placeholder-bulk-users.png) | ![Disk report email](screenshots/placeholder-disk-report.png) |
+- `New-BulkADUsers.ps1` creating users (with `-WhatIf` preview and real run)
+- The HTML disk-space report email
+- `Get-InactiveADAccounts.ps1` report output
+- `backup-rotate.sh` daily/weekly rotation in action
 
 ---
 
