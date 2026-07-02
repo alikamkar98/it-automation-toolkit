@@ -1,0 +1,4 @@
+# One server hostname per line. Lines starting with # are ignored.
+DC01
+FS01
+APP01

@@ -1,0 +1,5 @@
+FirstName,LastName,Department,OU,Group
+Ada,Lovelace,Engineering,"OU=Engineering,OU=Users,DC=corp,DC=local",Engineers
+Grace,Hopper,Engineering,"OU=Engineering,OU=Users,DC=corp,DC=local",Engineers
+Alan,Turing,Research,"OU=Research,OU=Users,DC=corp,DC=local",Researchers
+Katherine,Johnson,Finance,"OU=Finance,OU=Users,DC=corp,DC=local",Finance
